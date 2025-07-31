@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum 3D Scientific Calculator</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjs@9.4.4/lib/browser/math.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="title">Quantum 3D Scientific Calculator</div>
+        
+        <div class="calculator-wrapper">
+            <canvas id="calculator-canvas"></canvas>
+            
+            <div class="calculator-ui">
+                <div class="display">
+                    <div class="expression" id="expression">0</div>
+                    <div class="result" id="result">0</div>
+                </div>
+                
+                <div class="buttons-grid" id="buttons-grid"></div>
+            </div>
+        </div>
+        
+        <div class="mobile-warning">Rotate device for best experience</div>
+        <div class="mode-toggle">
+            <button id="theme-toggle">Dark Mode</button>
+            <button id="view-toggle">Perspective View</button>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
