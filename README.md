@@ -4,7 +4,7 @@ Welcome to the **Quantum Scientific Calculator**, a next-generation, 3D-rendered
 
 This calculator supports both **mouse/touch interaction** and **keyboard input**, featuring animations, glowing 3D buttons, and a sleek sci-fi interface that works beautifully across modern desktop browsers.
 
----
+--
 
 ## 🚀 Features
 
