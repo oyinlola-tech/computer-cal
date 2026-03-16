@@ -1,10 +1,10 @@
-# ⚛️ Quantum Scientific Calculator - Futuristic 3D Web App
+# Quantum Scientific Calculator - Futuristic 3D Web App
 
 Welcome to the **Quantum Scientific Calculator**, a next-generation, 3D-rendered scientific calculator built for web. This project is designed to push the boundaries of what a calculator app can look and feel like, combining **mathematical precision** with **immersive visual design** using cutting-edge web technologies like **Three.js**, **Math.js**, and **GSAP**.
 
 This calculator supports both **mouse/touch interaction** and **keyboard input**, featuring animations, glowing 3D buttons, and a sleek sci-fi interface that works beautifully across modern desktop browsers.
 
---
+--   
 
 ## 🚀 Features
 
